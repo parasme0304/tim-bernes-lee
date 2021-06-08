@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+   padding-top: 800px;
+}
+
+.img1{
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+    border-bottom: 50px;
+}
+
+#welcome{
+    background-image: linear-gradient(#34dbeb,#fafafa);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 800px;
+    width: 100%;
+    display: table;
+    position: absolute;
+}
+
+.div1{
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+}
+
+
+.line{
+    height: 7px;
+    width: 100%;
+    margin: 8px auto;
+    background-color: black;
+    
+}
+
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive;
+    font-weight: 600;
+
+}
+
+#bio{
+    padding: 50px;
+    text-align: center;
+    
+}
+
+p{
+    max-width: 1000px;
+    font-size: 20px;
+    line-height: 1.2;
+    margin: 25px auto;
+}
